@@ -72,7 +72,7 @@
   <rect x="48" y="232" width="700" height="2" fill="#e8c547" opacity="0.25"/>
 
   <!-- Tagline -->
-  <text x="50" y="272" font-family="'Courier New', monospace" font-size="15" fill="#7a7870" letter-spacing="2">AutoLISP tools built by a designer, for designers.</text>
+  <text x="50" y="272" font-family="'Courier New', monospace" font-size="15" fill="#7a7870" letter-spacing="2">Free AutoLISP tools built by a designer, for designers.</text>
 
   <!-- Tool pills -->
   <!-- DiffCheck -->
