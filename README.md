@@ -68,9 +68,9 @@ If these tools saved you time, consider buying me a coffee ☕
 
 ---
 
-# BBeast — 建築師的 AutoLISP 工具包
+# DBeast — 建築師的 AutoLISP 工具包
 
-由建築設計師開發、專為建築師打造的免費 AutoCAD 工具。  
+由建築設計師開發、專為設計師打造的免費 AutoCAD 工具。  
 不需要安裝外掛、不需要訂閱。下載 `.lsp` 檔，載入就能用。
 
 ---
