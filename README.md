@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="dbeast-banner.svg" width="100%" alt="DBeast Banner"/>
+</div>
 [中文版](#中文版)
 
 ---
