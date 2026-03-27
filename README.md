@@ -4,8 +4,7 @@
 
 <br><br>
 
-**Free AutoLISP tools built by a designer, for designers.**  
-No plugins. No subscriptions. Download a `.lsp` file and run.
+**Free AutoLISP tools built by a designer, for designers.** No plugins. No subscriptions. Download a `.lsp` file and run.
 
 <br>
 
@@ -15,6 +14,16 @@ No plugins. No subscriptions. Download a `.lsp` file and run.
 [![Ko-fi](https://img.shields.io/badge/Ko--fi_☕-ff5f5f?style=flat-square&labelColor=111111&logo=ko-fi&logoColor=ff5f5f)](https://ko-fi.com/beastt1992)
 
 </div>
+
+---
+
+### ▤ [SectionDraft](https://github.com/beastt1992/SectionDraft)
+
+**Draw one cut line. Let the algorithm build the rest.**
+
+Instantly generate fully drafted, BIM-level vertical sections from 2D floor plans. Uses semantic ray-casting to auto-detect walls, parapets, and doors, while automatically generating slabs and 2cm plaster lines.
+
+`SECDRAFT`
 
 ---
 
@@ -60,24 +69,7 @@ Built for the Model Space workflow common in Taiwan and Asia. Pick a frame, set 
 
 ## Installation
 
-```
+```text
 1.  Download the .lsp file from any repo above
 2.  In AutoCAD, type APPLOAD and load the file
 3.  Run the command listed above
-```
-
-> 💡 Add to **Startup Suite** in APPLOAD for automatic loading every session.
-
----
-
-<div align="center">
-
-**If these tools saved you time, consider buying me a coffee ☕**
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/beastt1992)
-
-<br>
-
-*AutoLISP · MIT License · AutoCAD 2014+, BricsCAD, GstarCAD*
-
-</div>
