@@ -73,3 +73,21 @@ Built for the Model Space workflow common in Taiwan and Asia. Pick a frame, set 
 1.  Download the .lsp file from any repo above
 2.  In AutoCAD, type APPLOAD and load the file
 3.  Run the command listed above
+```
+
+💡 Add to **Startup Suite** in APPLOAD for automatic loading every session.
+
+---
+
+<div align="center">
+
+**If these tools saved you time, consider buying me a coffee ☕**
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/beastt1992)
+
+<br>
+
+*AutoLISP · MIT License · AutoCAD 2014+, BricsCAD, GstarCAD*
+
+</div>
+
