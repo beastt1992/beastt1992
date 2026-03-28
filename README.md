@@ -57,7 +57,7 @@ Built for the Model Space workflow common in Taiwan and Asia. Pick a frame, set 
 
 ---
 
-### ▤ [SectionDraft](https://github.com/beastt1992/SectionDraft)
+### ▤ [SectionDraft](https://github.com/beastt1992/SectionDraft-AutoCAD)
 
 **Draw one cut line. Let the algorithm build the rest.**
 
