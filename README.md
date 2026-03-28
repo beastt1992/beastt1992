@@ -17,16 +17,6 @@
 
 ---
 
-### ▤ [SectionDraft](https://github.com/beastt1992/SectionDraft)
-
-**Draw one cut line. Let the algorithm build the rest.**
-
-Instantly generate fully drafted, BIM-level vertical sections from 2D floor plans. Uses semantic ray-casting to auto-detect walls, parapets, and doors, while automatically generating slabs and 2cm plaster lines.
-
-`SECDRAFT`
-
----
-
 ### ⬡ [DiffCheck](https://github.com/beastt1992/DiffCheck)
 
 **Auto-mark revision clouds for design changes**
@@ -64,6 +54,16 @@ One base plan, multiple review versions (fire, accessibility, area). Change the 
 Built for the Model Space workflow common in Taiwan and Asia. Pick a frame, set scale and output folder, export all sheets at once.
 
 `BPDF`
+
+---
+
+### ▤ [SectionDraft](https://github.com/beastt1992/SectionDraft)
+
+**Draw one cut line. Let the algorithm build the rest.**
+
+Instantly generate fully drafted, BIM-level vertical sections from 2D floor plans. Uses semantic ray-casting to auto-detect walls, parapets, and doors, while automatically generating slabs and 2cm plaster lines.
+
+`SECDRAFT`
 
 ---
 
