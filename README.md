@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/dbeast-banner.svg" width="100%" alt="DBeast Banner"/>
+<img src="assets/dbeast-banner-v3.svg" width="100%" alt="DBeast Banner"/>
 
 <br><br>
 
