@@ -20,6 +20,7 @@
 ### ⬡ [DiffCheck](https://github.com/beastt1992/DiffCheck)
 **Auto-mark revision clouds for design changes**
 Select old and new regions in the same DWG — red revision clouds appear instantly around every change. No more hand-circling.
+
 `DFC` `DFCC` `DFCT`
 
 ---
@@ -27,6 +28,7 @@ Select old and new regions in the same DWG — red revision clouds appear instan
 ### ◈ [DrawingHealthScore](https://github.com/beastt1992/DrawingHealthScore)
 **Scan any DWG and get a health score out of 100**
 8-point diagnostic dashboard — unused layers, unpurged blocks, file weight, xrefs — with one-click fix and MB savings display.
+
 `DHS` `DHSFIX`
 
 ---
@@ -41,6 +43,7 @@ One base plan, multiple review versions (fire, accessibility, area). Change the 
 ### ▣ [BatchPDF](https://github.com/beastt1992/autocad-batch-plot)
 **Batch export all title block frames to individual PDFs**
 Built for the Model Space workflow common in Taiwan and Asia. Pick a frame, set scale and output folder, export all sheets at once.
+
 `BPDF`
 
 ---
@@ -48,6 +51,7 @@ Built for the Model Space workflow common in Taiwan and Asia. Pick a frame, set 
 ### ▤ [SectionDraft](https://github.com/beastt1992/SectionDraft-AutoCAD)
 **Draw one cut line. Let the algorithm build the rest.**
 Instantly generate fully drafted, BIM-level vertical sections from 2D floor plans. Uses semantic ray-casting to auto-detect walls, parapets, and doors, while automatically generating slabs and 2cm plaster lines.
+
 `SECDRAFT`
 
 ---
@@ -55,6 +59,7 @@ Instantly generate fully drafted, BIM-level vertical sections from 2D floor plan
 ### ◎ [WallCenterline](https://github.com/beastt1992/WallCenterline-AutoCAD)
 **One command. Every wall centerline, trimmed and closed.**
 Scans the entire floor plan and auto-generates a clean centerline network for every wall — regardless of thickness variation, corner type, or drawing imperfections. The only AutoLISP implementation using ensemble voting and geometric intersection closing.
+
 `WCL`
 
 ---
