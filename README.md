@@ -20,7 +20,6 @@
 ### ⬡ [DiffCheck](https://github.com/beastt1992/DiffCheck)
 **Auto-mark revision clouds for design changes**
 Select old and new regions in the same DWG — red revision clouds appear instantly around every change. No more hand-circling.
-
 `DFC` `DFCC` `DFCT`
 
 ---
