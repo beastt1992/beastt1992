@@ -52,7 +52,7 @@ Instantly generate fully drafted, BIM-level vertical sections from 2D floor plan
 
 ---
 
-### ◎ [WallCenterline](https://github.com/beastt1992/WallCenterline-AutoCAD)
+### ◎ [WallCenterline](https://github.com/beastt1992/WallCenterline)
 **One command. Every wall centerline, trimmed and closed.**
 Scans the entire floor plan and auto-generates a clean centerline network for every wall — regardless of thickness variation, corner type, or drawing imperfections. The only AutoLISP implementation using ensemble voting and geometric intersection closing.
 `WCL`
